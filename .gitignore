@@ -1,0 +1,12 @@
+venv
+Dockerfile
+requirements.txt
+AI_Football/Cartpole/logs/*
+AI_Football/Cartpole/models/*
+AI_Football/Pendulum/logs/*
+AI_Football/Pendulum/models/*
+AI_Football/AIFootball/models/DDPG/*
+AI_Football/AIFootball/models/PPO/*
+AI_Football/AIFootball/logs/DDPG_logs/*
+AI_Football/AIFootball/logs/PPO_logs/*
+.idea
